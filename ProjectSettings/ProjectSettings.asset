@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e8c102fb9076c5541a8f1ceb214eb1cd
+  productGUID: 2a9b19c63302ff74a972c71cb6dbc593
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: LittleArsenist
+  productName: Little Arsenist
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: LittleArsenist
+  metroPackageName: Little Arsenist
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: LittleArsenist
+  metroApplicationDescription: Little Arsenist
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -913,10 +913,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4f61bab2-ca6b-4fad-803e-6d0fe3f55d65
+  cloudProjectId: 0a4026a5-4ffa-4767-baca-3855db1a3fd6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: LittleArsenist
+  projectName: Little Arsenist
   organizationId: itsmezii
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
